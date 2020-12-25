@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1571278440 source:g:\c语言程序测试\数据结构\seqlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571300458 source:c:\users\administrator.user-20180906ra\desktop\seqlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
